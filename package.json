@@ -16,8 +16,8 @@
     "eslint-config-next": "15.5.23",
     "next": "15.5.23",
     "postcss": "8.5.26",
-    "react": "19.2.7",
-    "react-dom": "19.2.7",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
     "react-icons": "^5.0.0",
     "tailwindcss": "4.3.3"
   },
